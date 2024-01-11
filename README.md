@@ -30,7 +30,7 @@ Check out my [portfolio website](https://supithcha.github.io/Portfolio/) ! to se
 ## 📫 Connect with Me
 > You can find me on:
 <div style="display: flex; align-items: center; ">
-  <a href="mailto:Supithcha.jon@student.mahidol.ac.th"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" width="40" height="40"></a>
+  <a href="mailto:pooppub3@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" width="40" height="40"></a>
   <a href="https://www.linkedin.com/in/supithcha/"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="40" height="40""></a>
   <a href="https://www.instagram.com/pubbq_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" width="40" height="40" ></a>
   <a href="https://www.youtube.com/channel/UCX82f8alwunuyPH3-4NU6gw"><img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" alt="YouTube" width="40" height="40"></a>
