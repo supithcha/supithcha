@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Pub
 > Supithcha Jonghpoemwatthanaphon
 
-Software Engineering Student | [Faculty of ICT, Mahidol University](https://www.ict.mahidol.ac.th/), Mahidol University 
+Software Engineering Student | [Faculty of ICT](https://www.ict.mahidol.ac.th/), Mahidol University 
 
 ## 🖥️  Portfolio
 Check out my [portfolio website](https://supithcha.github.io/Portfolio/) ! to see some of my projects and learn more about me.
